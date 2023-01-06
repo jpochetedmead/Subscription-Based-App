@@ -19,6 +19,7 @@ We expect to have this project done within 6 to 12 months.
 * IOS
 
 ## Collaborators
+[Project's Trello Board - Agile (Scrum)](https://trello.com/b/YEDBtCmN/agile-board-template-trello)
 * Julio Pochet Edmead
 * 
 *
