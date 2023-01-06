@@ -23,6 +23,7 @@ We expect to have this project done within 6 to 12 months.
 * Julio Pochet Edmead
 * Andrew Matt
 * Dinesh Kumar
+* Anthony McMellen 
 *
 
 [© 2023 Contributors to the Subscription Based App Project](https://github.com/jpochetedmead/Subscription-Based-App)
